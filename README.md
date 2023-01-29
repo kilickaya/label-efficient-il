@@ -1,4 +1,4 @@
-# label-efficient-cil
+# Towards Label-Efficient Incremental Learning: A Survey
 Awesome-Label-Efficient-CIL
 
 
