@@ -1,6 +1,17 @@
 # Towards Label-Efficient Incremental Learning: A Survey
-**Abstract**: The current dominant paradigm when building a machine learning model is to iterate over a dataset over and over until convergence. Such an approach is non-incremental, as it assumes access to all images of all categories at once. However, for many applications, non-incremental learning is unrealistic. To that end, researchers study incremental learning, where a learner is required to adapt to an incoming stream of data with a varying distribution while preventing forgetting of past knowledge. Significant progress has been made, however, the vast majority of works focus on the fully supervised setting, making these algorithms label-hungry thus limiting their real-life deployment. To that end, in this paper, we make the first attempt to survey recently growing interest in label-efficient incremental learning. We identify three subdivisions, namely semi-, few-shot and self-supervised learning to reduce labeling efforts. Finally, we identify novel directions that can further enhance label-efficiency and improve incremental learning scalability. 
 
-Coming Soon.
+The repository for ["Towards Label-Efficient Incremental Learning: A Survey"](https://arxiv.org/pdf/2302.00353.pdf). Please cite the following bib entry in case you use it:
+```
+@article{kilickaya2023towards,
+    author = {Kilickaya, Mert and Van der Weijer, Joost and Asano, Yuki},
+    title = {Towards Label-Efficient Incremental Learning: A Survey},
+    journal = {arXiv preprint arXiv:2302.00353},
+    year = {2023}
+}
+```
+
+More Details Coming Soon.
 
 In the meanwhile, please feel free to open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com) if you think we are missing an important work. 
+
+
