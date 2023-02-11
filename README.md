@@ -3,4 +3,4 @@
 
 Coming Soon.
 
-In the meanwhile, please feel free to open an issue or send me an [e-mail](kilickayamert@gmail.com) if you think we are missing an important work. 
+In the meanwhile, please feel free to open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com) if you think we are missing an important work. 
