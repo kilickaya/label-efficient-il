@@ -13,7 +13,7 @@ The repository for ["Towards Label-Efficient Incremental Learning: A Survey"](ht
 More Details Coming Soon.
 
 In the meanwhile, please feel free to open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com) if you think we are missing an important work. 
---------------------------
+
 
 ![overview_v3](https://user-images.githubusercontent.com/8891413/218692212-c1046fa8-98db-4cc0-a1f3-f72298482624.png)
 
