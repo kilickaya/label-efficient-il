@@ -10,7 +10,7 @@ The repository for ["Towards Label-Efficient Incremental Learning: A Survey"](ht
 }
 ```
 
-More Details Coming Soon.
+More Details and Slides Coming Soon.
 
 You have a cool paper you think we should consider? Please open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com).   
 
