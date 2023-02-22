@@ -1,7 +1,5 @@
 # Towards Label-Efficient Incremental Learning: A Survey
 
-The repository for Towards Label-Efficient Incremental Learning: A Survey
-
 [Paper](https://arxiv.org/pdf/2302.00353.pdf) | [Slides](https://kilickaya.github.io/resume/survey.pdf)
 
 Please cite the following bib entry in case you use it:
