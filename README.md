@@ -14,11 +14,9 @@ Please cite the following bib entry in case you use it:
 }
 ```
 
-More Details and Slides Coming Soon.
+More Details Coming Soon.
 
 You have a cool paper you think we should consider? Please open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com).   
-
-
 ![overview_v3](https://user-images.githubusercontent.com/8891413/218692212-c1046fa8-98db-4cc0-a1f3-f72298482624.png)
 
 
