@@ -1,6 +1,9 @@
 # Towards Label-Efficient Incremental Learning: A Survey
 
-The repository for ["Towards Label-Efficient Incremental Learning: A Survey"](https://arxiv.org/pdf/2302.00353.pdf). Please cite the following bib entry in case you use it:
+The repository for . 
+
+["Paper"](https://arxiv.org/pdf/2302.00353.pdf) | ["Slides"](https://kilickaya.github.io/resume/survey.pdf)
+Please cite the following bib entry in case you use it:
 ```
 @article{kilickaya2023towards,
     author = {Kilickaya, Mert and Van der Weijer, Joost and Asano, Yuki},
