@@ -12,13 +12,25 @@ Please cite the following bib entry in case you use it:
 }
 ```
 
-
-More details coming soon.
-
 You have a cool paper you think we should consider? Please open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com).   
 
+**Abstract**: The current dominant paradigm when building a
+machine learning model is to iterate over a dataset
+over and over until convergence. Such an approach is non-incremental, as it assumes access
+to all images of all categories at once. However,
+for many applications, non-incremental learning
+is unrealistic. To that end, researchers study incremental learning, where a learner is required to
+adapt to an incoming stream of data with a varying distribution while preventing forgetting of past
+knowledge. Significant progress has been made,
+however, the vast majority of works focus on the
+fully supervised setting, making these algorithms
+label-hungry thus limiting their real-life deployment. To that end, in this paper, we make the
+first attempt to survey recently growing interest
+in label-efficient incremental learning. We identify three subdivisions, namely semi-, few-shotand self-supervised learning to reduce labeling efforts. Finally, we identify novel directions that
+can further enhance label-efficiency and improve
+incremental learning scalability
 
-# Semi-Supervision for Incremental Learning
+## Semi-Supervision for Incremental Learning
 
 | Algorithm | Setting | Year | Code | 
 | -------- | -------- | -------- | -------- |
@@ -35,7 +47,7 @@ You have a cool paper you think we should consider? Please open an [issue](https
 
 
 
-# Few-shot-Supervision for Incremental Learning
+## Few-shot-Supervision for Incremental Learning
 
 | Algorithm | Setting | Year | Code | 
 | -------- | -------- | -------- | -------- |
@@ -50,7 +62,7 @@ You have a cool paper you think we should consider? Please open an [issue](https
 | [C-FSCIL](https://arxiv.org/abs/2203.16588) | Architectural | 2022 | [Code](https://github.com/IBM/constrained-FSCIL) | 
 
 
-# Self-Supervision for Incremental Learning
+## Self-Supervision for Incremental Learning
 
 | Algorithm | Setting | Year | Code | 
 | -------- | -------- | -------- | -------- |
@@ -63,8 +75,6 @@ You have a cool paper you think we should consider? Please open an [issue](https
 | [SCALE](https://arxiv.org/pdf/2208.11266.pdf) | Main-training | 2022 | - | 
 
 
-
-
-
+More details coming soon! 
 
 
