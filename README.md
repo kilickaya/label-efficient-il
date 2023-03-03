@@ -50,3 +50,21 @@ You have a cool paper you think we should consider? Please open an [issue](https
 | [C-FSCIL](https://arxiv.org/abs/2203.16588) | Architectural | 2022 | [Code](https://github.com/IBM/constrained-FSCIL) | 
 
 
+# Self-Supervision for Incremental Learning
+
+| Algorithm | Setting | Year | Code | 
+| -------- | -------- | -------- | -------- |
+| [SSL-OCL](https://arxiv.org/pdf/2103.14010.pdf) | Pre-training | 2021 | - | 
+| [PASS](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf) | Auxiliary-training | 2021 | - | 
+| [Buffer-SSL](https://arxiv.org/abs/2203.12710) | Main-training | 2022 | - | 
+| [LUMP](https://openreview.net/forum?id=9Hrka5PA7LW) | Main-training | 2022 | [Code](https://github.com/divyam3897/UCL) | 
+| [CaSSLe](https://arxiv.org/pdf/2112.04215.pdf) | Main-training | 2022 | [Code](https://github.com/DonkeyShot21/cassle) | 
+| [PFR](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Gomez-Villa_Continually_Learning_Self-Supervised_Representations_With_Projected_Functional_Regularization_CVPRW_2022_paper.pdf) | Main-training | 2022 | - | 
+| [SCALE](https://arxiv.org/pdf/2208.11266.pdf) | Main-training | 2022 | - | 
+
+
+
+
+
+
+
