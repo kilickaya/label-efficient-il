@@ -20,17 +20,17 @@ You have a cool paper you think we should consider? Please open an [issue](https
 
 # Semi-Supervision for Incremental Learning
 
-| Algorithm | Data | Pre-training | Replayed Entity | Code | 
-| -------- | -------- | -------- | -------- | -------- |  
-| CNLL      | Within | Pre-training | Pseudo-labels | Code |   
-| DistillMatch      | Within | Pre-training | Pseudo-labels | Code |   
-| ORDisco      | Within | Pre-training | Pseudo-labels & Data | Code |   
-| MetaCon      | Within | Pre-training | Pseudo-labels & Data | Code |   
-| PGL      | Within | Pre-training | Pseudo-gradients | Code |   
-| DMC      | Auxiliary | Pre-training | Pseudo-labels | Code |   
-| CIL-QUD      | Auxiliary | Pre-training | Pseudo-labels | Code |   
-| CoTTA      | Test | Pre-training | Pseudo-labels | Code |   
-| NOTE      | Test | Pre-training | Data | Code |   
+| Algorithm | Setting | Year | Code | 
+| -------- | -------- | -------- | -------- |
+| [CNLL](https://dl.acm.org/doi/10.1145/3094243.3094247)      | Within | 2017 | - |
+| [DistillMatch](https://arxiv.org/abs/2101.09536) | Within | 2021 | [Code](https://github.com/GT-RIPL/DistillMatch-SSCL) |
+| [ORDisCo](https://arxiv.org/abs/2101.00407) | Within | 2021 | - |
+| [MetaCon](https://arxiv.org/abs/2110.01856) | Within | 2021 | - | 
+| [PGL](https://arxiv.org/abs/2201.09196) | Setting | Year | [Code](https://github.com/luoyan407/grad_prediction) |
+| [DMC](https://arxiv.org/abs/1903.07864) | Auxiliary | 2020 | - |
+| [CIL-QUD](https://arxiv.org/abs/2206.07842) | Auxiliary | 2022 | [Code](https://github.com/VITA-Group/CIL-QUD) | 
+| [CoTTA](https://arxiv.org/abs/2203.13591) | Test | 2022 | [Code](https://github.com/qinenergy/cotta) | 
+| [NOTE](https://arxiv.org/abs/2208.05117) | Test  | 2022 | [Code](https://github.com/TaesikGong/NOTE) | 
 
 
 
