@@ -37,6 +37,7 @@ Here, we compare three different paradigms for label-efficient incremental learn
 ## Summary
 
 ![summary2](https://user-images.githubusercontent.com/8891413/222820855-7590786c-87d8-4854-8e59-2969802e46d1.PNG)
+
 Here, we summarize main settings studied for label-efficient incremental learning. 
 
 ## Semi-Supervision for Incremental Learning
