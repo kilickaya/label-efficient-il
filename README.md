@@ -14,8 +14,9 @@ Please cite the following bib entry in case you use it:
 
 # Semi-Supervision for Incremental Learning
 
-| -------- | -------- | -------- | -------- |
-| Algorithm | Data | Pre-training | Replayed Entity | Code |  
+
+| Algorithm | Data | Pre-training | Replayed Entity | Code | 
+| -------- | -------- | -------- | -------- | 
 | CNLL      | Data | Pre-training | Replayed Entity | Code |   
 | DistillMatch      | Data | Pre-training | Replayed Entity | Code |   
 | ORDisco      | Data | Pre-training | Replayed Entity | Code |   
