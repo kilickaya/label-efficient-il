@@ -12,6 +12,24 @@ Please cite the following bib entry in case you use it:
 }
 ```
 
+# Semi-Supervision for Incremental Learning
+
+| -------- | -------- | -------- | -------- |
+| Algorithm | Data | Pre-training | Replayed Entity | Code |  
+| CNLL      | Data | Pre-training | Replayed Entity | Code |   
+| DistillMatch      | Data | Pre-training | Replayed Entity | Code |   
+| ORDisco      | Data | Pre-training | Replayed Entity | Code |   
+| MetaCon      | Data | Pre-training | Replayed Entity | Code |   
+| CNLL      | Data | Pre-training | Replayed Entity | Code |   
+| PGL      | Data | Pre-training | Replayed Entity | Code |   
+| DMC      | Data | Pre-training | Replayed Entity | Code |   
+| CIL-QUD      | Data | Pre-training | Replayed Entity | Code |   
+| CoTTA      | Data | Pre-training | Replayed Entity | Code |   
+| NOTE      | Data | Pre-training | Replayed Entity | Code |   
+
+
+
+
 More details coming soon.
 
 You have a cool paper you think we should consider? Please open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com).   
