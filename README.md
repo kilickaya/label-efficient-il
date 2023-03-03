@@ -12,29 +12,26 @@ Please cite the following bib entry in case you use it:
 }
 ```
 
-# Semi-Supervision for Incremental Learning
-
-
-| Algorithm | Data | Pre-training | Replayed Entity | Code | 
-| -------- | -------- | -------- | -------- | 
-| CNLL      | Data | Pre-training | Replayed Entity | Code |   
-| DistillMatch      | Data | Pre-training | Replayed Entity | Code |   
-| ORDisco      | Data | Pre-training | Replayed Entity | Code |   
-| MetaCon      | Data | Pre-training | Replayed Entity | Code |   
-| CNLL      | Data | Pre-training | Replayed Entity | Code |   
-| PGL      | Data | Pre-training | Replayed Entity | Code |   
-| DMC      | Data | Pre-training | Replayed Entity | Code |   
-| CIL-QUD      | Data | Pre-training | Replayed Entity | Code |   
-| CoTTA      | Data | Pre-training | Replayed Entity | Code |   
-| NOTE      | Data | Pre-training | Replayed Entity | Code |   
-
-
-
 
 More details coming soon.
 
 You have a cool paper you think we should consider? Please open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com).   
-![overview_v3](https://user-images.githubusercontent.com/8891413/218692212-c1046fa8-98db-4cc0-a1f3-f72298482624.png)
+
+
+# Semi-Supervision for Incremental Learning
+
+| Algorithm | Data | Pre-training | Replayed Entity | Code | 
+| -------- | -------- | -------- | -------- | -------- |  
+| CNLL      | Within | Pre-training | Pseudo-labels | Code |   
+| DistillMatch      | Within | Pre-training | Pseudo-labels | Code |   
+| ORDisco      | Within | Pre-training | Pseudo-labels & Data | Code |   
+| MetaCon      | Within | Pre-training | Pseudo-labels & Data | Code |   
+| PGL      | Within | Pre-training | Pseudo-gradients | Code |   
+| DMC      | Auxiliary | Pre-training | Pseudo-labels | Code |   
+| CIL-QUD      | Auxiliary | Pre-training | Pseudo-labels | Code |   
+| CoTTA      | Test | Pre-training | Pseudo-labels | Code |   
+| NOTE      | Test | Pre-training | Data | Code |   
+
 
 
 
