@@ -34,4 +34,17 @@ You have a cool paper you think we should consider? Please open an [issue](https
 
 
 
+# Few-shot-Supervision for Incremental Learning
+
+| Algorithm | Setting | Year | Code | 
+| -------- | -------- | -------- | -------- |
+| [TOPIC](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf) | Graph | 2020  | - | 
+| [CEC](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.pdf) | Graph | 2021 | - | 
+| [IDL-VQ](https://openreview.net/forum?id=3SV-ZePhnZM) | Clustering | 2020 | - | 
+| [SA-KD](https://arxiv.org/abs/2103.04059) | Clustering | 2021 | - | 
+| [Sub-Reg](https://openreview.net/forum?id=boJy41J-tnQ) | Clustering | 2020 | [Code](https://github.com/feyzaakyurek/subspace-reg) | 
+| [FACT](https://arxiv.org/abs/2203.06953) | Clustering | 2022 | [Code](https://github.com/zhoudw-zdw/CVPR22-Fact) | 
+| [FSLL](https://arxiv.org/pdf/2103.00991.pdf) | Architectural | 2021 | - | 
+| [C-FSCIL](https://arxiv.org/abs/2203.16588) | Architectural | 2022 | [Code](https://github.com/IBM/constrained-FSCIL) | 
+
 
