@@ -30,6 +30,15 @@ in label-efficient incremental learning. We identify three subdivisions, namely 
 can further enhance label-efficiency and improve
 incremental learning scalability
 
+## Flowchart
+![summary](https://user-images.githubusercontent.com/8891413/222820805-4597104c-2e1d-4d0d-b818-b8187d6ce94c.PNG)
+Here, we compare three different paradigms for label-efficient incremental learning. 
+
+## Summary
+
+![summary2](https://user-images.githubusercontent.com/8891413/222820855-7590786c-87d8-4854-8e59-2969802e46d1.PNG)
+Here, we summarize main settings studied for label-efficient incremental learning. 
+
 ## Semi-Supervision for Incremental Learning
 
 | Algorithm | Setting | Year | Code | 
