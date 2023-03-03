@@ -26,7 +26,8 @@ You have a cool paper you think we should consider? Please open an [issue](https
 | [DistillMatch](https://arxiv.org/abs/2101.09536) | Within | 2021 | [Code](https://github.com/GT-RIPL/DistillMatch-SSCL) |
 | [ORDisCo](https://arxiv.org/abs/2101.00407) | Within | 2021 | - |
 | [MetaCon](https://arxiv.org/abs/2110.01856) | Within | 2021 | - | 
-| [PGL](https://arxiv.org/abs/2201.09196) | Setting | Year | [Code](https://github.com/luoyan407/grad_prediction) |
+| [PGL](https://arxiv.org/abs/2201.09196) | Within | 2022 | [Code](https://github.com/luoyan407/grad_prediction) |
+| [NNCSL](https://arxiv.org/pdf/2212.05102.pdf) | Within | 2022 | [Code](https://github.com/kangzhiq/NNCSL)
 | [DMC](https://arxiv.org/abs/1903.07864) | Auxiliary | 2020 | - |
 | [CIL-QUD](https://arxiv.org/abs/2206.07842) | Auxiliary | 2022 | [Code](https://github.com/VITA-Group/CIL-QUD) | 
 | [CoTTA](https://arxiv.org/abs/2203.13591) | Test | 2022 | [Code](https://github.com/qinenergy/cotta) | 
@@ -44,6 +45,7 @@ You have a cool paper you think we should consider? Please open an [issue](https
 | [SA-KD](https://arxiv.org/abs/2103.04059) | Clustering | 2021 | - | 
 | [Sub-Reg](https://openreview.net/forum?id=boJy41J-tnQ) | Clustering | 2020 | [Code](https://github.com/feyzaakyurek/subspace-reg) | 
 | [FACT](https://arxiv.org/abs/2203.06953) | Clustering | 2022 | [Code](https://github.com/zhoudw-zdw/CVPR22-Fact) | 
+| [NCollapse](https://arxiv.org/pdf/2302.03004.pdf) | Clustering | 2023 | [Code](https://github.com/NeuralCollapseApplications/FSCIL)
 | [FSLL](https://arxiv.org/pdf/2103.00991.pdf) | Architectural | 2021 | - | 
 | [C-FSCIL](https://arxiv.org/abs/2203.16588) | Architectural | 2022 | [Code](https://github.com/IBM/constrained-FSCIL) | 
 
