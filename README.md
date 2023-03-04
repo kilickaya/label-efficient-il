@@ -14,32 +14,6 @@ Please cite the following bib entry in case you use it:
 
 You have a cool paper you think we should consider? Please open an [issue](https://github.com/kilickaya/label-efficient-il/issues/new/choose) or send me an [e-mail](kilickayamert@gmail.com).   
 
-**Abstract**: The current dominant paradigm when building a
-machine learning model is to iterate over a dataset
-over and over until convergence. Such an approach is non-incremental, as it assumes access
-to all images of all categories at once. However,
-for many applications, non-incremental learning
-is unrealistic. To that end, researchers study incremental learning, where a learner is required to
-adapt to an incoming stream of data with a varying distribution while preventing forgetting of past
-knowledge. Significant progress has been made,
-however, the vast majority of works focus on the
-fully supervised setting, making these algorithms
-label-hungry thus limiting their real-life deployment. To that end, in this paper, we make the
-first attempt to survey recently growing interest
-in label-efficient incremental learning. We identify three subdivisions, namely semi-, few-shotand self-supervised learning to reduce labeling efforts. Finally, we identify novel directions that
-can further enhance label-efficiency and improve
-incremental learning scalability
-
-## Flowchart
-![summary](https://user-images.githubusercontent.com/8891413/222820805-4597104c-2e1d-4d0d-b818-b8187d6ce94c.PNG)
-Here, we compare three different paradigms for label-efficient incremental learning. 
-
-## Summary
-
-![summary2](https://user-images.githubusercontent.com/8891413/222820855-7590786c-87d8-4854-8e59-2969802e46d1.PNG)
-
-Here, we summarize main settings studied for label-efficient incremental learning. 
-
 ## Semi-Supervision for Incremental Learning
 
 | Algorithm | Setting | Year | Code | 
