@@ -41,7 +41,8 @@ You have a cool paper you think we should consider? Please open an [issue](https
 | [SA-KD](https://arxiv.org/abs/2103.04059) | Clustering | 2021 | - | 
 | [Sub-Reg](https://openreview.net/forum?id=boJy41J-tnQ) | Clustering | 2020 | [Code](https://github.com/feyzaakyurek/subspace-reg) | 
 | [FACT](https://arxiv.org/abs/2203.06953) | Clustering | 2022 | [Code](https://github.com/zhoudw-zdw/CVPR22-Fact) | 
-| [NCollapse](https://arxiv.org/pdf/2302.03004.pdf) | Clustering | 2023 | [Code](https://github.com/NeuralCollapseApplications/FSCIL)
+| [NCollapse](https://arxiv.org/pdf/2302.03004.pdf) | Clustering | 2023 | [Code](https://github.com/NeuralCollapseApplications/FSCIL) | 
+| [CoSR]([https://arxiv.org/pdf/2302.03004.pdf](http://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2023_Continual%20Few-shot%20Learning%20with%20Transformer%20Adaptation%20and%20Knowledge%20Regularization.pdf)) | Clustering | 2023 | - | 
 | [FSLL](https://arxiv.org/pdf/2103.00991.pdf) | Architectural | 2021 | - | 
 | [C-FSCIL](https://arxiv.org/abs/2203.16588) | Architectural | 2022 | [Code](https://github.com/IBM/constrained-FSCIL) | 
 
